@@ -1,5 +1,3 @@
-# 02_Maths_for_Datascience_yt_sadiqpashag
-
 
 # Maths for Datascience Curriculum and Notes
 
