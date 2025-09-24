@@ -1,5 +1,5 @@
 
-# Maths for Datascience Curriculum and Notes
+# [02_Maths_for_DS_by_sadiqpashag](https://www.youtube.com/playlist?list=PL_Xg_EN1dgTGeOe0Ovawop5a61q0XaUm4)
 
 Welcome to the **02_Maths_for_Datascience** repository!  
 This repo contains detailed notes, code, and examples on the essential mathematics required for aspiring Data Scientists, focusing on **Linear Algebra** and **Probability**.
